@@ -37,7 +37,11 @@ Developed as part of an academic mini project in AI and Data Science.
 
 
 How To Run:
+
 1. Install all requirements in **Virtual Environment**
+
 2.Activate Virtual Environment
+
 3.Run _App.py_
-4.Check The **webpage link** showing as output in Terminal
+
+4.Click The **webpage link** showing as output in Terminal
