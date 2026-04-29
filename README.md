@@ -36,8 +36,7 @@ Developed as part of an academic mini project in AI and Data Science.
 
 
 
-How To Run:
-1. Install all requirements in **Virtual Environment**
+How To Run:1. Install all requirements in **Virtual Environment**
 
 2.Activate Virtual Environment
 
